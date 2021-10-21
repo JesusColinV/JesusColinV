@@ -24,7 +24,7 @@
 * Python
 * JavaScript
 
-### I am a dreamer, optimistic for the future and active in the present
+### I love learning new things, thinking big and making my dreams come true.
 #### If you like to talk, send me a message.
 
 <!--
