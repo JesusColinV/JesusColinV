@@ -19,10 +19,10 @@
 
 ## <img src="https://media-public.canva.com/MADpuvcDYvM/1/thumbnail_large.png" alt="aboutme" width="50"> </img> knowledge in programming
 
-* C++
-* Matlab
 * Python
 * JavaScript
+* C#
+* Azure
 
 ### I love learning new things, thinking big and making my dreams come true.
 #### If you like to talk, send me a message.
