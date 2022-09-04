@@ -5,7 +5,7 @@
 
 ## <img src="https://media-public.canva.com/MADpjs5E-NE/1/thumbnail_large.png" alt="aboutme" width="50"> </img> A little bit about me 
 
-* I'm 23 years old.
+* I'm 24 years old.
 * Passionate about traveling, physical sports and chess
 * I work in the field of telemedicine as a Health Data Scientist and IoT developer.
 * I have experience participating projects about:
