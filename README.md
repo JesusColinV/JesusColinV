@@ -36,6 +36,6 @@ Here are some of initiatives I've worked on:
 I'm always open to new ideas and opportunities. Let's make something amazing together.
 
 - Email: [jealcovi98@gmail.com](mailto:jealcovi98@gmail.com)
-- LinkedIn: [Your LinkedIn](#https://www.linkedin.com/in/jealcovi/)
+- LinkedIn: [<img src="https://img.shields.io/badge/LinkedIn-Jesus%20Colin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](#https://www.linkedin.com/in/jealcovi/)
 
 Thank you for stopping by!
