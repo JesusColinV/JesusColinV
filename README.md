@@ -27,8 +27,8 @@ I work with a range of technologies to bring my ideas to life. Here's a snapshot
 
 Here are some of initiatives I've worked on:
 
-- Global conversational AI projects.
-- Generative AI initiatives.
+- Global conversational AI and Gen-AI projects.
+- Chatbots on OneReach, PVA & Azure Bot framework
 - SRE / DevOps adoption on SAFe Agile. 
 
 ## Let's Connect!
