@@ -35,7 +35,7 @@ Here are some of initiatives I've worked on:
 
 I'm always open to new ideas and opportunities. Let's make something amazing together.
 
-- Email: [your.email@example.com](mailto:jealcovi98@gmail.com)
+- Email: [jealcovi98@gmail.com](mailto:jealcovi98@gmail.com)
 - LinkedIn: [Your LinkedIn](#https://www.linkedin.com/in/jealcovi/)
 
 Thank you for stopping by!
