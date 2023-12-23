@@ -1,43 +1,41 @@
+# Welcome to My GitHub Profile!
 
+Hello there! I'm a passionate and creative developer, dedicated to innovating with code. I love turning complex problems into elegant solutions.
 
-<img alt="Awesome GitHub Profile Readme" src="assets/Disfruta el momento y contruye el futuro.gif"> </img>
-# <img src="https://video-public.canva.com/VADqk7FUj2Q/videos/a57de58f48.gif" alt="drawing" width="50"> </img> I'm **Jesus Colin** technology developer and medical bioengineer
+## My Toolbox 🧰
 
-## <img src="https://media-public.canva.com/MADpjs5E-NE/1/thumbnail_large.png" alt="aboutme" width="50"> </img> A little bit about me 
+I work with a range of technologies to bring my ideas to life. Here's a snapshot of my skills:
 
-* I'm 24 years old.
-* Passionate about traveling, physical sports and chess
-* I work in the field of telemedicine as a Health Data Scientist and IoT developer.
-* I have experience participating projects about:
-  * AI
-  * 3D modeling and printing
-  * PWA development
-  * Robotics
-  * Scientific research
- 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Azure Badge](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### Languages:
 
-## <img src="https://media-public.canva.com/MADpuvcDYvM/1/thumbnail_large.png" alt="aboutme" width="50"> </img> knowledge in programming
+- **Python**: Advanced
+- **JavaScript**: Intermediate
+- **C#**: Intermediate
 
-* Python
-* JavaScript
-* C#
-* Azure
+### Technologies:
 
-### I love learning new things, thinking big and making my dreams come true.
-#### If you like to talk, send me a message.
+- **Azure**: Experienced
+- **TensorFlow**: Skilled
 
-<!--
-**JesusColinV/JesusColinV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects 🌟
 
-Here are some ideas to get you started:
+Here are some of initiatives I've worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Global conversational AI projects.
+- Generative AI initiatives.
+- SRE / DevOps adoption on SAFe Agile. 
+
+## Let's Connect!
+
+I'm always open to new ideas and opportunities. Let's make something amazing together.
+
+- Email: [your.email@example.com](mailto:jealcovi98@gmail.com)
+- LinkedIn: [Your LinkedIn](#https://www.linkedin.com/in/jealcovi/)
+
+Thank you for stopping by!
