@@ -1,6 +1,6 @@
 # Jesus Alejandro Colin Vilchis
 
-Atzin, 50920 Toluca de Lerdo, México | +52 722 566 4556 | jealcovi98@gmail.com | [LinkedIn](https://www.linkedin.com/in/jealcovi/)
+CP: 50250 Toluca de Lerdo, México | +52 722 566 4556 | jealcovi98@gmail.com | [LinkedIn](https://www.linkedin.com/in/jealcovi/)
 
 ## Summary
 
